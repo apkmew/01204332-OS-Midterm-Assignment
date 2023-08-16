@@ -1,0 +1,6 @@
+Parallel Results
+Number of Threads : 20
+N : 500000
+Sum : 63383644
+Average : 126
+Time : 121
