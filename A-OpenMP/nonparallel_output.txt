@@ -1,5 +1,5 @@
-Parallel Results
+Non-Parallel Results
 N : 500000
 Sum : 63383644
 Average : 126
-Time : 244
+Time : 131

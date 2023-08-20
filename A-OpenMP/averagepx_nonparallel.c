@@ -28,7 +28,7 @@ int main(){
     int end_time = clock();
 
     //  Print Results
-    printf( "Parallel Results\n" );
+    printf( "Non-Parallel Results\n" );
     printf( "N : %d\n", N );
     printf( "Sum : %d\n", sum );
     printf( "Average : %d\n", sum / N );
